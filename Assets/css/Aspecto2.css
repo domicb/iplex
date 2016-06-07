@@ -1,0 +1,44 @@
+
+    body{
+        background-color: #1E1E1E; 
+    }
+    #identi{
+        color:white;
+    }
+    #cod{
+        background-color:white;
+        width: 320px;
+        height: 60px; 
+        left: 60px;
+        position: relative; 
+  
+
+    }
+    #bot{
+        color:white;
+        font-size:15pt; 
+        border: 5px;
+        font-weight: bold;
+        background-color:#FF5E65;
+        margin-left: 80px;
+          height: 65px; 
+          width: 250px; 
+        position: relative; 
+      
+    }
+    .clasecss{
+        color:white;
+        font-size:15pt; 
+        border: 15px;
+        font-weight: bold;
+        background-color:red;
+        margin-left: 80px;
+          height: 65px; 
+          width: 250px; 
+        position: relative; 
+    }
+ 
+
+    html, body, #map_canvas {                
+  height: 100%;
+}

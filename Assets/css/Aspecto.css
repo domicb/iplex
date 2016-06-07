@@ -1,0 +1,87 @@
+
+    body{
+        background-color: #1E1E1E; 
+    }
+    #identi{
+        color:white;
+    }
+    #cod{
+        background-color:white;
+        font-style: black;
+        width: 320px;
+        height: 60px; 
+        left: 60px;
+        position: relative; 
+
+    }
+    #bot{
+        color:white;
+        font-size:15pt; 
+        border: 5px;
+        font-weight: bold;
+        background-color:#FF5E65;
+        margin-left: 80px;
+          height: 65px; 
+          width: 250px; 
+        position: relative; 
+      
+    }
+    .clasecss{
+        color:white;
+        font-size:15pt; 
+        border: 15px;
+        font-weight: bold;
+        background-color:red;
+        margin-left: 80px;
+          height: 65px; 
+          width: 250px; 
+        position: relative; 
+    }
+    #cuadro{
+     margin-left: 80px;
+     background-color:#67B9E0;
+     border-style: solid;
+     border-color: #1E1E1E;
+    }
+    .formu{
+    background-color:white;
+        width: 370px;
+    height:50px;
+    border: none;
+        min-height: 34px;
+        left: 60px;
+    margin:5px;
+        position: relative; 
+
+    }
+    input::-moz-placeholder {
+    color: #black;
+    text-align: center;
+    /*font-weight: bold;*/
+    }
+
+    #entre{
+    color: #FFFFFF;
+    margin-top:5px;
+    font-size: 16px;
+    line-height: 19px;  
+    font-family: ubuntu, sans-serif;
+    left: 105px;
+    position: relative; 
+}
+    #capt{
+    margin:5px 5px 5px 90px;
+    }
+    html, body, #map_canvas {                
+  height: 100%;
+}
+    #btn-login{
+        margin:5px 5px 5px 60px;
+          height: 45px; 
+          width: 380px; 
+          background-color:rgb(54, 62, 122);
+          color:white;
+           border: none;
+        font-size:15pt; 
+       
+    }
